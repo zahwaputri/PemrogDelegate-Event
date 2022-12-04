@@ -1,4 +1,5 @@
-# TugasDelegateDanEvent #
-- Tugas Pertemuan 8 Mata Kuliah Pemrograman lanjut
-- Nama: Ariza Akmal Syahida
-- Nim: 21.11.4105
+PemrogDelegate&Event
+Nama : Zahwa Putri Chairunnisa
+Nim : 21.11.4084  
+Kelas : 21 IF 04
+Mata Kuliah : Pemrograman Lanjut
